@@ -15,6 +15,10 @@
 
 ---
 
+[![GitHub followers](https://img.shields.io/github/followers/farizqi12?style=social)](https://github.com/farizqi12)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/farizqi12)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:farizqi12@example.com)
+
 ### 🛠️ Tech Stack So Far
 
 ```bash
@@ -22,6 +26,3 @@ Languages:   HTML | CSS | JavaScript | PHP | Dart
 Frameworks:  Laravel | Flutter  
 Tools:       Git & GitHub | VS Code | Figma
 
-[GitHub followers](https://img.shields.io/github/followers/farizqi12?style=social)](https://github.com/farizqi12)
-[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/farizqi12)
-[Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:farizqi12@example.com)
