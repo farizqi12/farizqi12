@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Farizqi!
+## 👋 Hi there, I'm Farizqi Saifullah!
 
 🎓 I'm an Informatics student and a passionate beginner programmer who's diving into the world of code — one bug at a time.
 
@@ -27,5 +27,5 @@
 ```bash
 Languages:   HTML | CSS | JavaScript | PHP | Dart  
 Frameworks:  Laravel | Flutter  
-Tools:       Git & GitHub | VS Code | Figma
+Tools:       Git & GitHub | VS Code | Figma | Docker
 
