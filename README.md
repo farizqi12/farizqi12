@@ -13,6 +13,9 @@
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/farizqi-saifullah) | [Email](mailto:muhamadfarizqi39@gmail.com)
 - ⚡ Fun fact: I started programming with the idea of building my **own apps**, and now I'm addicted to problem-solving!
 
+### 📚 Project Highlights
+- [Todo App](#) | [Portfolio](#) | [Flutter Counter](#)
+
 ---
 
 [![GitHub followers](https://img.shields.io/github/followers/farizqi12?style=social)](https://github.com/farizqi12)
