@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm Farizqi!
 
-<!--
-**farizqi12/farizqi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Informatics student and a passionate beginner programmer who's diving into the world of code — one bug at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 Currently learning: **Web Development**, **Laravel**, and **Flutter**
+- 🔭 Exploring: **UI/UX Design**, **Open Source Projects**, and **Database Management**
+- 🧠 Curious about: How things work behind the scenes in apps and websites
+- 💬 Ask me about: My journey as a beginner, tips for learning to code, or my favorite tech memes 😄
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/farizqi-saifullah) | [Email](mailto:muhamadfarizqi39@gmail.com)
+- ⚡ Fun fact: I started programming with the idea of building my **own apps**, and now I'm addicted to problem-solving!
+
+---
+
+### 🛠️ Tech Stack So Far
+
+```bash
+Languages:   HTML | CSS | JavaScript | PHP | Dart  
+Frameworks:  Laravel | Flutter  
+Tools:       Git & GitHub | VS Code | Figma
