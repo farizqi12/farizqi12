@@ -15,9 +15,9 @@
 
 ### 📚 Project Highlights
 - [Absensi App](https://github.com/farizqi12/sditarrahmahlumajang) | [Portfolio](#) | [Keuangan APP](https://github.com/YUDHAADS/sistemkeuangan) | [Flutter App](https://github.com/farizqi12/WhatsApp-abal-abal)
-
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farizqi12&show_icons=true&theme=radical)
+---
 [![GitHub followers](https://img.shields.io/github/followers/farizqi12?style=social)](https://github.com/farizqi12)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](www.linkedin.com/in/farizqi-saifullah)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:muhamadfarizqi39@gmail.com)
