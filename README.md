@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I started programming with the idea of building my **own apps**, and now I'm addicted to problem-solving!
 
 ### 📚 Project Highlights
-- [Todo App](#) | [Portfolio](#) | [Flutter Counter](#)
+- [Absensi App](https://github.com/farizqi12/sditarrahmahlumajang) | [Portfolio](#) | [Keuangan APP](https://github.com/YUDHAADS/sistemkeuangan) | [Flutter App](https://github.com/farizqi12/WhatsApp-abal-abal)
 
 ---
 
