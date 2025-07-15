@@ -25,17 +25,3 @@ Tools:       Git & GitHub | VS Code | Figma
 [![GitHub followers](https://img.shields.io/github/followers/farizqi12?style=social)](https://github.com/farizqi12)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/farizqi12)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:farizqi12@example.com)
-
-### 📊 My GitHub Stats
-
-![Farizqi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farizqi12&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farizqi12&layout=compact&theme=tokyonight)
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 🧪 Mini Projects I've Built
-
-- 📝 [Simple Todo App](https://github.com/farizqi12/todo-app) – CRUD app with local storage.
-- 🌐 [My Personal Landing Page](https://github.com/farizqi12/portfolio) – Built with HTML, CSS, and a bit of JavaScript.
-- 📱 [Basic Flutter Counter App](https://github.com/farizqi12/flutter-counter) – My first mobile app with Flutter!
